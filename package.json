@@ -2,7 +2,7 @@
   "name": "storeapp",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://sushantc10.github.io/catching-fish/",
+  "homepage" : "http://sushantc10.github.io/catchfish/",
   "dependencies": {
     "autoprefixer-stylus": "^0.14.0",
     "browserslist": "^4.4.0",
